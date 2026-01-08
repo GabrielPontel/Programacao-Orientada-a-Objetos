@@ -19,8 +19,16 @@ Repositório contendo resoluções de exercicios de atividades, listas e provas,
 - Tratamento de Exeções;
 - Interface Gráfica (Java Swing);
 - Acesso a Banco de Dados (JDBC).
-## _Linguagem utilizada_:
+## _Tecnologias_:
 <div>
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-
 </div>
+
+## _Desenvolvedor_:
+
+ <img src="https://github.com/GabrielPontel.png" width="150" alt="Foto do perfil GitHub">
+<a href="https://github.com/GabrielPontel" target="_blank">
+<h>GabrielPontel</h>
+</a>
+
+
